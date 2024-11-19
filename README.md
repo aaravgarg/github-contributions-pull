@@ -50,8 +50,11 @@ Result: The script will display the number of contributions made by the user in 
 
 Example output:
 
-``Loading: 30/30
-Result: 120 contributions in the last year``
+```
+Loading: 30/30
+
+Result: 120 contributions in the last year
+```
 
 License: This project is licensed under the MIT License - see the LICENSE file for details.
 
