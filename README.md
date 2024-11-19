@@ -22,7 +22,9 @@ Before running the script, make sure you have the following installed:
 
 You can install the required packages using `pip` by running the following command in your terminal:
 
-```pip install selenium webdriver-manager```
+```
+pip install selenium webdriver-manager
+```
 
 ### Step 2: Download the appropriate WebDriver
 
@@ -36,13 +38,17 @@ Save the script as github_contributions.py in your project folder.
 
 Run the script:
 
-```python github_contributions.py```
+```
+python github_contributions.py
+```
 
 Input: When prompted, enter a GitHub profile URL or just the username of the user whose contributions you want to check.
 
 ### Example input:
 
-```Enter GitHub profile URL or username: aaravgarg```
+```
+Enter GitHub profile URL or username: aaravgarg
+```
 
 Progress Bar: While the script is retrieving the contribution data, a simple inline progress bar will be shown in your terminal.
 
